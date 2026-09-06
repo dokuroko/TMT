@@ -3,12 +3,12 @@
 importer="font_data_dynamic"
 type="FontFile"
 uid="uid://borjtrne0otan"
-path="res://.godot/imported/NotoSansTC-Medium.ttf-fe99dc1caf747a95ec7084910b62ffe6.fontdata"
+path="res://.godot/imported/NotoSansTC-Medium.ttf-c8427bf3533e431afc6cba2c4d8fef5e.fontdata"
 
 [deps]
 
-source_file="res://build/github/fonts/NotoSansTC-Medium.ttf"
-dest_files=["res://.godot/imported/NotoSansTC-Medium.ttf-fe99dc1caf747a95ec7084910b62ffe6.fontdata"]
+source_file="res://fonts/NotoSansTC-Medium.ttf"
+dest_files=["res://.godot/imported/NotoSansTC-Medium.ttf-c8427bf3533e431afc6cba2c4d8fef5e.fontdata"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://bte3k4325h4xc"
-path="res://.godot/imported/toss.wav-897d33f55d705a05e30020ed70cd8c4c.sample"
+path="res://.godot/imported/toss.wav-b3b140aa3b459298069dcd1e67d94739.sample"
 
 [deps]
 
-source_file="res://build/github/audio/toss.wav"
-dest_files=["res://.godot/imported/toss.wav-897d33f55d705a05e30020ed70cd8c4c.sample"]
+source_file="res://audio/toss.wav"
+dest_files=["res://.godot/imported/toss.wav-b3b140aa3b459298069dcd1e67d94739.sample"]
 
 [params]
 

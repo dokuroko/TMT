@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bp2y1vnn3uaax"
-path="res://.godot/imported/mami_bgm.ogg-8cc59d643b5b1740271a56c1751cb5ec.oggvorbisstr"
+path="res://.godot/imported/mami_bgm.ogg-28d6129bf6967dba6a7fa1bae03e4d44.oggvorbisstr"
 
 [deps]
 
-source_file="res://build/github/audio/mami_bgm.ogg"
-dest_files=["res://.godot/imported/mami_bgm.ogg-8cc59d643b5b1740271a56c1751cb5ec.oggvorbisstr"]
+source_file="res://audio/mami_bgm.ogg"
+dest_files=["res://.godot/imported/mami_bgm.ogg-28d6129bf6967dba6a7fa1bae03e4d44.oggvorbisstr"]
 
 [params]
 
